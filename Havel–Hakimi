@@ -1,4 +1,4 @@
-#Havel-Hakimi Theorem on Graphical Sequences
+#Implementing Havel-Hakimi Theorem on Graphical Sequences with Python built-in functions
 
 def havel_hakimi(x, counter):
   x = sorted(x, reverse=True)
